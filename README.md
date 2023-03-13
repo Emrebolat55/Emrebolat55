@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Bolat</h1>
-<h3 align="center">I'm Emre,Data Science and Artificial Intelligence Expert</h3> 
+<h3 align="center">I'm Emre,Data Science and Artificial Intelligence Expert</h3>
 <img align="center" alt="coding" widh="1000" src =https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebolat55&label=Profile%20views&color=0e75b6&style=flat" alt="emrebolat55" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **I’m currently learning Python, Data Science and AI.**
 
 - 💬 Ask me about **Ask me about Python, Artificial Intelligence**
+
+- 📫 How to reach me **bolatemre574@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrebolat55&show_icons=true&locale=en" alt="emrebolat55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrebolat55&" alt="emrebolat55" /></p>
+
