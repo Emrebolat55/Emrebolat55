@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Bolat</h1>
 <h3 align="center">I'm Emre,Data Science and Artificial Intelligence Expert</h3> 
-<img align="right" alt="coding" widh="400" src =https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif>
+<img align="left" alt="coding" widh="400" src =https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebolat55&label=Profile%20views&color=0e75b6&style=flat" alt="emrebolat55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrebolat55" alt="emrebolat55" /></a> </p>
